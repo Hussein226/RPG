@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.2" orientation="orthogonal" renderorder="left-down" compressionlevel="0" width="25" height="25" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="42">
+ <editorsettings>
+  <export target="Assets/Tilemap/overworld..tmx" format="tmx"/>
+ </editorsettings>
+ <tileset firstgid="1" source="overworld.tsx"/>
+ <layer id="1" name="Ground" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eAHtlWEKwjAMhVPZDqM3VU+z7TS6yxhhhc9Ak0BhqOxHaEbX98h7b10RkZKsaRCZUYv22bPZ9w6OvKa/rNVVs3Pb6jJ+5uqsz3Xv3pExqw+zy74nx3tzFNXmqZrUOkE7b46qZ2ulBxaHM9Ibi0VNo97jiM5m97+Zo/rXWj1f6YfNA/GiO5c41lcvDxEu98nh+Wa9IkbU78HxaHxz75nowdpxX3FOO1OPPsRlf3D8x7/2BSpDsZI=
+  </data>
+ </layer>
+ <layer id="2" name="Collisions" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eAHVlOlRAkEQRlf/qAsemaiIRwpGoAIeKRiBJ2AIGoEnYAioMag5aBK+luqqpplllkKtsqsey0wfX+/M7KSTSVLISZE4aynjagTJKbk8W+N5IkleQK3sYm2uj7U5Nk7n9flB/c+cGj5Wa0hfqjHF5DTMQAoFUNMeh72Hxvqn1VjEuQTLUIIVUNMex9XYouA27EAFquBtXI0jCh7DCZzCGYjZs1Nze15hrOdKYjflx5ldq2t8N3ALd3APYrpfvVH2r8QdBtxWI+D+nhpFI1TjrzTsmura2qffg1CvMpdVJ2++rVvnm2xA03yb1v8T/1vUbkPnFzVeqf0G7yNoyPkfdu/6uzZrLbLqxO5dqfdfzq72eUnPV4GFUH/A1TeVFWe/wS4ZT31ZvYGce90vvzf+LiuSMgtzMA8LYDUYDph/N4m35nsv41yFNViHDYhpdImx7xbTqBG/C3uwDwdgNXzPuAcspnFORh0a0IQLsBpdxrZnhgMW03ggowVt6MAjWA2GUYtphApITtZ9ae9e/e/v0Dy5kvMFthVPFw==
+  </data>
+ </layer>
+ <objectgroup id="3" name="collision mask">
+  <object id="1" x="9.5" y="9.5" width="0.5" height="27.5"/>
+  <object id="2" x="7.5" y="8" width="8" height="158.5"/>
+  <object id="3" x="1" y="1" width="13.5" height="170"/>
+  <object id="4" x="2.5" y="160.5" width="139" height="12"/>
+  <object id="5" x="129.5" y="97.5" width="12" height="74.5"/>
+  <object id="6" x="129" y="97" width="62" height="11"/>
+  <object id="7" x="177" y="1.5" width="11" height="106.5"/>
+  <object id="8" x="1.5" y="2" width="188.5" height="12.5"/>
+  <object id="9" x="112.5" y="19.5" width="31" height="27.5"/>
+  <object id="10" x="143" y="51.5" width="32.5" height="28.5"/>
+  <object id="11" x="32.5" y="277.5" width="31" height="25.5"/>
+  <object id="12" x="32" y="338" width="31" height="32"/>
+  <object id="13" x="113" y="308" width="31.5" height="29"/>
+  <object id="14" x="2" y="225" width="140" height="13.5"/>
+  <object id="15" x="126.5" y="224.5" width="17.5" height="77.5"/>
+  <object id="16" x="129.5" y="287.5" width="60.5" height="15"/>
+  <object id="17" x="174" y="288" width="16.5" height="110"/>
+  <object id="18" x="0.5" y="386" width="187.5" height="11.5"/>
+  <object id="19" x="0.5" y="225" width="12.5" height="161"/>
+  <object id="20" x="192" y="176.25" width="48" height="47"/>
+  <object id="21" x="241.75" y="0.25" width="14" height="108.5"/>
+  <object id="22" x="242.25" y="95.5" width="61.25" height="16.25"/>
+  <object id="23" x="288.5" y="96.75" width="15.25" height="76.25"/>
+  <object id="24" x="289.25" y="159.5" width="30.5" height="13.75"/>
+  <object id="25" x="316" y="160.75" width="83.75" height="13.5"/>
+  <object id="26" x="385.5" y="50.75" width="12.75" height="122"/>
+  <object id="27" x="384.5" y="-0.5" width="13.5" height="52"/>
+  <object id="28" x="242.5" y="1" width="156.5" height="13"/>
+  <object id="29" x="289" y="17" width="31" height="30"/>
+  <object id="30" x="304.5" y="97.5" width="14" height="29.5"/>
+  <object id="31" x="242" y="289" width="60" height="13"/>
+  <object id="32" x="289.5" y="226" width="12" height="74.5"/>
+  <object id="33" x="289.5" y="226" width="109" height="13.5"/>
+  <object id="34" x="385" y="226.5" width="13" height="172"/>
+  <object id="35" x="241.5" y="382" width="156.5" height="15.5"/>
+  <object id="36" x="242.5" y="291.5" width="14" height="95"/>
+  <object id="37" x="40" y="56" width="66" height="69"/>
+  <object id="38" x="32" y="49" width="78" height="80"/>
+  <object id="39" x="302" y="286" width="80" height="82"/>
+  <object id="40" x="393" y="321"/>
+  <object id="41" x="324" y="-46"/>
+ </objectgroup>
+</map>

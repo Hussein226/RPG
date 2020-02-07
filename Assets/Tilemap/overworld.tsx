@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tileset version="1.2" tiledversion="1.3.2" name="overworld" tilewidth="16" tileheight="16" tilecount="1440" columns="40">
+ <image source="Overworld.png" width="640" height="576"/>
+ <terraintypes>
+  <terrain name="Path" tile="1160"/>
+  <terrain name="Water" tile="1160"/>
+  <terrain name="DungeonPath" tile="1160"/>
+  <terrain name="Island" tile="1160"/>
+  <terrain name="Bridge" tile="0"/>
+ </terraintypes>
+ <tile id="120" terrain=",,,3"/>
+ <tile id="121" terrain=",,3,3"/>
+ <tile id="122" terrain=",,3,"/>
+ <tile id="160" terrain=",3,,3"/>
+ <tile id="161" terrain="3,3,3,3"/>
+ <tile id="162" terrain="3,,3,"/>
+ <tile id="200" terrain=",3,,"/>
+ <tile id="201" terrain="3,3,,"/>
+ <tile id="202" terrain="3,,,"/>
+ <tile id="242" terrain=",,,1"/>
+ <tile id="243" terrain=",,1,1"/>
+ <tile id="244" terrain=",,1,"/>
+ <tile id="245" terrain=",,,4"/>
+ <tile id="246" terrain=",,4,4"/>
+ <tile id="247" terrain=",,4,"/>
+ <tile id="282" terrain=",1,,1"/>
+ <tile id="283" terrain="1,1,1,1"/>
+ <tile id="284" terrain="1,,1,"/>
+ <tile id="285" terrain=",4,,4"/>
+ <tile id="286" terrain="4,4,4,4"/>
+ <tile id="287" terrain="4,,4,"/>
+ <tile id="322" terrain=",1,,"/>
+ <tile id="323" terrain="1,1,,"/>
+ <tile id="324" terrain="1,,,"/>
+ <tile id="325" terrain=",4,,"/>
+ <tile id="326" terrain="4,4,,"/>
+ <tile id="327" terrain="4,,,"/>
+ <tile id="362" terrain="3,3,3,"/>
+ <tile id="363" terrain="3,3,,3"/>
+ <tile id="402" terrain="3,,3,3"/>
+ <tile id="403" terrain=",3,3,3"/>
+ <tile id="691" terrain=",,,2"/>
+ <tile id="692" terrain=",,2,2"/>
+ <tile id="693" terrain=",,2,"/>
+ <tile id="731" terrain=",2,,2"/>
+ <tile id="733" terrain="2,,2,"/>
+ <tile id="771" terrain=",2,,"/>
+ <tile id="772" terrain="2,2,,"/>
+ <tile id="773" terrain="2,,,"/>
+ <tile id="811" terrain=",,,2"/>
+ <tile id="812" terrain=",,2,"/>
+ <tile id="851" terrain=",2,,"/>
+ <tile id="852" terrain="2,,,"/>
+ <tile id="1160" terrain=",,,0"/>
+ <tile id="1161" terrain=",,0,0"/>
+ <tile id="1162" terrain=",,0,"/>
+ <tile id="1200" terrain=",0,,0"/>
+ <tile id="1201" terrain="0,0,0,0"/>
+ <tile id="1202" terrain="0,,0,"/>
+ <tile id="1240" terrain=",0,,"/>
+ <tile id="1241" terrain="0,0,,"/>
+ <tile id="1242" terrain="0,,,"/>
+ <tile id="1280" terrain="0,0,0,"/>
+ <tile id="1281" terrain="0,0,,0"/>
+ <tile id="1320" terrain="0,,0,0"/>
+ <tile id="1321" terrain=",0,0,0"/>
+</tileset>

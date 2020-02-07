@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.2" orientation="orthogonal" renderorder="left-down" compressionlevel="0" width="25" height="25" tilewidth="16" tileheight="16" infinite="0" nextlayerid="6" nextobjectid="110">
+ <editorsettings>
+  <export target="overworld..tmx" format="tmx"/>
+ </editorsettings>
+ <tileset firstgid="1" source="overworld.tsx"/>
+ <layer id="1" name="Ground" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eAHtlWEKwjAMhVPZDqM3VU+z7TS6yxhhhc9Ak0BhqOxHaEbX98h7b10RkZKsaRCZUYv22bPZ9w6OvKa/rNVVs3Pb6jJ+5uqsz3Xv3pExqw+zy74nx3tzFNXmqZrUOkE7b46qZ2ulBxaHM9Ibi0VNo97jiM5m97+Zo/rXWj1f6YfNA/GiO5c41lcvDxEu98nh+Wa9IkbU78HxaHxz75nowdpxX3FOO1OPPsRlf3D8x7/2BSpDsZI=
+  </data>
+ </layer>
+ <layer id="2" name="Collisions" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eAG9lPtNwzAQhw3/lEd5bEKhLbACE/AssAIT0GfCCDABzyaMEGAGYAdYgi8Slk6yndhqmp/0ycrd+Xy/RE66qFQCqceqLPLZG9PbpfcFpT7AR67a6H9+V48f+v96nuGqzX1qHw0OWoJlWIFV0HLNqPNFq/SxRWELtmEH2qDlmlHni1bp45DCIziGEziFKiR9XNOwDwMYwghCdWDZIH3ck3+AR3iCZwjVlWWD9GFJVxKSPippaGlSlw/L0YWhCXcygtjzbhY2cySn9E4gneMZn/T+gu+AM/S/xDH2zOG6vnmdPm55K3czvxmzgbyDGek3syQo0qR6DdZhAzah7HuEeuvQswu7sAf7IH3waCgjEuLtjPoenMMFXIL0EToz2w2NiUwgghhuQPrIeA6ZmXJDL0SmkEAKryB98DgXaR/5Wfk9KVttQ5TtyfN/+t9b2Q==
+  </data>
+ </layer>
+ <objectgroup id="5" name="collisionMasks">
+  <object id="44" x="31.9685" y="47.5811" width="79.5496" height="80.2931"/>
+  <object id="45" x="1.48691" y="0.743455" width="190.324" height="13.3822"/>
+  <object id="46" x="1.48691" y="15.6125" width="11.8953" height="142.743"/>
+  <object id="56" x="385.853" y="0.743455" width="11.8953" height="156.125"/>
+  <object id="57" x="241.623" y="1.48691" width="141.256" height="10.4084"/>
+  <object id="59" x="288.46" y="18.5864" width="31.2251" height="28.9947"/>
+  <object id="60" x="143.487" y="52.0418" width="30.4816" height="29.7382"/>
+  <object id="61" x="110.031" y="20.8167" width="34.9424" height="26.0209"/>
+  <object id="62" x="33.4555" y="275.078" width="27.5078" height="28.9947"/>
+  <object id="63" x="113.749" y="310.021" width="30.4816" height="25.2775"/>
+  <object id="64" x="29.7382" y="341.989" width="35.6858" height="24.534"/>
+  <object id="65" x="-0.743455" y="225.267" width="16.356" height="171.738"/>
+  <object id="66" x="16.356" y="385.109" width="172.481" height="12.6387"/>
+  <object id="72" x="191.811" y="174.712" width="48.3245" height="46.0942"/>
+  <object id="73" x="304.816" y="98.8795" width="14.8691" height="31.2251"/>
+  <object id="77" x="255.748" y="382.879" width="142.743" height="14.8691"/>
+  <object id="78" x="384.366" y="225.267" width="11.1518" height="155.382"/>
+  <object id="81" x="304.073" y="287.717" width="77.3193" height="78.8062"/>
+  <object id="109" x="189.333" y="396.667">
+   <polyline points="0,0 59.3333,1.33333"/>
+  </object>
+ </objectgroup>
+</map>
