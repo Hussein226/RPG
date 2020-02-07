@@ -940,7 +940,6 @@ ScriptedImporter:
     101876: _MapPrfab/pathUp/Grid/Bridge/tile (15, 6) (TRS)
     101878: _MapPrfab/pathUp/Grid/collisionMask/Object_9
     101880: _MapPrfab/pathUp/Grid/collisionMask/Object_10
-    101882: _MapPrfab/pathUp/Grid/collisionMask/Object_11
     400000: _MapPrfab/pathUp/Transform
     400002: _MapPrfab/pathUp/Grid/Transform
     400004: _MapPrfab/pathUp/Grid/Ground/Transform
@@ -1879,7 +1878,6 @@ ScriptedImporter:
     401876: _MapPrfab/pathUp/Grid/Bridge/tile (15, 6) (TRS)/Transform
     401878: _MapPrfab/pathUp/Grid/collisionMask/Object_9/Transform
     401880: _MapPrfab/pathUp/Grid/collisionMask/Object_10/Transform
-    401882: _MapPrfab/pathUp/Grid/collisionMask/Object_11/Transform
     6100000: _MapPrfab/pathUp/Grid/collisionMask/Object_2/BoxCollider2D
     6100002: _MapPrfab/pathUp/Grid/collisionMask/Object_3/BoxCollider2D
     6100004: _MapPrfab/pathUp/Grid/collisionMask/Object_4/BoxCollider2D
@@ -1889,7 +1887,6 @@ ScriptedImporter:
     6800002: _MapPrfab/pathUp/Grid/collisionMask/Object_8/EdgeCollider2D
     6800004: _MapPrfab/pathUp/Grid/collisionMask/Object_9/EdgeCollider2D
     6800006: _MapPrfab/pathUp/Grid/collisionMask/Object_10/EdgeCollider2D
-    6800008: _MapPrfab/pathUp/Grid/collisionMask/Object_11/EdgeCollider2D
     11400000: _MapPrfab/pathUp/MonoBehaviour-SuperTiled2Unity.SuperMap
     11400002: _MapPrfab/pathUp/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
     11400004: _MapPrfab/pathUp/Grid/Ground/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
@@ -2854,9 +2851,6 @@ ScriptedImporter:
     11401928: _MapPrfab/pathUp/Grid/collisionMask/Object_10/MonoBehaviour-SuperTiled2Unity.SuperObject
     11401930: _MapPrfab/pathUp/Grid/collisionMask/Object_10/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
     11401932: _MapPrfab/pathUp/Grid/collisionMask/Object_10/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
-    11401934: _MapPrfab/pathUp/Grid/collisionMask/Object_11/MonoBehaviour-SuperTiled2Unity.SuperObject
-    11401936: _MapPrfab/pathUp/Grid/collisionMask/Object_11/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
-    11401938: _MapPrfab/pathUp/Grid/collisionMask/Object_11/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
     21200000: _MapPrfab/pathUp/Grid/Collisions/tile (0, 0) (TRS)/SpriteRenderer
     21200002: _MapPrfab/pathUp/Grid/Collisions/tile (0, 1) (TRS)/SpriteRenderer
     21200004: _MapPrfab/pathUp/Grid/Collisions/tile (0, 2) (TRS)/SpriteRenderer
